@@ -1,5 +1,7 @@
 # Phân tích kết quả và cải tiến agent
 
+> Các kết quả và ảnh bên dưới thuộc phiên bản bài chính đã đánh giá, trước đợt mở rộng bonus. Phiên bản đang mở rộng đã qua test offline; cần lượt eval mới trước khi cập nhật điểm và kết luận. Chi tiết phần bonus nằm trong [BONUS.md](BONUS.md).
+
 Bài chính dùng bộ `core` gồm 22 case trên snapshot được cung cấp. Ghi chú cập nhật ngày 12/11/2026. Hai báo cáo đều đã chấm đủ 22/22 case: trước cải tiến **94,09/100**, sau cải tiến **98,23/100**, tăng **4,14 điểm**. Đây là điểm eval; điểm bài lab vẫn được chấm theo rubric của giảng viên.
 
 ![Kết quả đánh giá trước và sau cải tiến](assets/report/01-ket-qua.png)
