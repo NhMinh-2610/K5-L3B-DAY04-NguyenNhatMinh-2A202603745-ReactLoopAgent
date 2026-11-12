@@ -3,3 +3,8 @@
 __pycache__/
 *.pyc
 eval_results*.json
+
+# Local trial reports
+/eval_probe_*.json
+/eval_before_failed_*.json
+/eval_before_parts_*/
